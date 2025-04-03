@@ -5,6 +5,8 @@ description: An easy-to-use, flexible website template for labs, with automatic 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
+url: academix0.github.io
+baseurl:
 
 # site social media and other links
 links:
