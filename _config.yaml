@@ -1,21 +1,18 @@
 # site properties and page defaults
-title: academix0
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
+title: The Su Lab
+subtitle: at Scripps Research
+description: The lab website for Andrew Su's lab at Scripps Research
+logo-text: false
+header: images/background-radial-blur.jpg
 footer: images/background.jpg
 proofer: false
-url: academix0.github.io
-baseurl:
 
 # site social media and other links
 links:
-  email: contact@academix0.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: academix0
-  twitter: academix0
-  youtube: academix0
+  email: asu@scripps.edu
+  orcid: 0000-0002-9859-4104
+  google-scholar: xPGhKkoAAAAJ
+  github: sulab
 
 ### jekyll settings
 
