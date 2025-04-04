@@ -4,13 +4,22 @@ layout: default
 
 {% capture floatcontent %}
 
+{% assign member = site.members 
+  | where_exp: "member", "member.slug == page.slug"
+  | first
+%}
+{% include breadcrumbs.html member=member %}
+{% include section.html %}
+
 {% include portrait.html lookup=page.slug %}
 
 <div>
   {% for link in page.links %}
     {% assign key = link[0] %}
-    {% assign value = link[1] %}
-    {% include button.html type=key link=value style="bare" %}<br>
+    {% assign value = link[1] | strip %}
+    {% if value != "" %}
+      {% include button.html type=key link=value style="bare" %}<br>
+    {% endif %}
   {% endfor %}
 </div>
 
@@ -29,23 +38,14 @@ layout: default
 %}
 
 {% capture search -%}
-  research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
+  pubs/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
 
 <p class="center">
-  <a href="{{ search | relative_url | uri_escape }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Research page
+  <a href="{{ search | relative_url }}">
+    Search for {{ page.name | default: page.title }}'s papers on the Publications page
   </a>
 </p>
 
-{% capture search -%}
-  blog/?search={{ page.name }}
-{%- endcapture %}
-
-<!--
-<p class="center">
-  <a href="{{ search | relative_url | uri_escape }}">
-    See {{ page.name | default: page.title }}'s posts on the Blog page
-  </a>
-</p>
--->
+{% include section.html %}
+<a href="https://github.com/SuLab/sulab.org/edit/main/_members/{{ page.slug }}.md">Update this user profile</a>

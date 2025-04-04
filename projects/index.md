@@ -1,27 +1,32 @@
 ---
 title: Projects
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 1
+  tooltip: Projects in the lab
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-microscope" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab focuses on two primary areas of research within the domain of bioinformatics: the development of innovative bioinformatics tools and infrastructure, and the application of these tools to drive biomedical discovery.
 
-{% include tags.html tags="publication, resource, website" %}
+<div style="display: flex; justify-content: space-around;">
+  <div style="flex: 1; padding: 10px;">
+{%
+  include figure.html
+  image="images/bioinformatics_03.png"
+  caption="Tools and infrastructure"
+  link="projects/infrastructure"
+  width="100%"
+%}
+  </div>
+  <div style="flex: 1; padding: 10px;">
+{%
+  include figure.html
+  image="images/biomedical_discovery_03.png"
+  caption="Biomedical Discovery"
+  link="projects/discovery"
+  width="100%"
+%}
 
-{% include search-info.html %}
-
-{% include section.html %}
-
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+  </div>
+</div>

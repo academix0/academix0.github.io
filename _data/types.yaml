@@ -2,12 +2,12 @@
 
 # team member roles
 
-principal-investigator:
-  icon: fa-solid fa-microscope
+pi:
+  icon: fa-solid fa-user-secret
   description: Principal Investigator
 
 postdoc:
-  icon: fa-solid fa-glasses
+  icon: fa-solid fa-user-ninja
   description: Postdoctoral Researcher
 
 phd:
@@ -20,11 +20,27 @@ undergrad:
 
 programmer:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Software Engineer
+
+engineer:
+  icon: fa-solid fa-code
+  description: Software Engineer
 
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
+
+intern:
+  icon: fa-solid fa-school
+  description: Intern
+
+staff:
+  icon: fa-solid fa-image-portrait
+  description: Staff
+
+visitor:
+  icon: fa-solid fa-globe
+  description: Visiting Scientist
 
 # general
 
@@ -65,6 +81,11 @@ address:
   text: Address
   tooltip: Address
 
+directions:
+  icon: fa-solid fa-diamond-turn-right
+  text: Directions
+  tooltip: Directions for visitors
+
 search:
   icon: fa-solid fa-magnifying-glass
   text: Search
@@ -95,12 +116,6 @@ twitter:
   text: Twitter
   tooltip: Twitter
   link: https://twitter.com/$VALUE
-
-bluesky:
-  icon: fa-brands fa-bluesky
-  text: Bluesky
-  tooltip: Bluesky
-  link: https://bsky.app/profile/$VALUE
 
 facebook:
   icon: fa-brands fa-facebook
@@ -163,6 +178,11 @@ book:
   icon: fa-solid fa-book
   text: Book
   tooltip: Book
+
+pdf:
+  icon: fa-solid fa-newspaper
+  text: PDF
+  tooltip: PDF
 
 article:
   icon: fa-solid fa-newspaper

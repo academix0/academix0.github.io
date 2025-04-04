@@ -1,43 +1,55 @@
 ---
 title: Contact
 nav:
-  order: 5
-  tooltip: Email, address, and location
+  order: 6
+  tooltip: Contact information
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is part of the Department of Integrative Structural and Computational Biology at Scripps Research. We are based in La Jolla, CA, though we have many lab members and contributors distributed throughout the US and Canada.
+
+{%
+  include figure.html
+  image="images/scripps-research-email-logo.png"
+  width="300px"
+
+%}
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="asu@scripps.edu"
+  link="asu@scripps.edu"
 %}
+<!--
 {%
   include button.html
   type="phone"
   text="(555) 867-5309"
   link="+1-555-867-5309"
 %}
+-->
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/ezXbwnAmZ3QSPHW3A"
 %}
 
+{%
+  include button.html
+  type="directions"
+  tooltip="Directions for visitors"
+  link="/contact/directions"
+%}
 {% include section.html %}
 
 {% capture col1 %}
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/scripps_skaggs.jpg"
 %}
 
 {% endcapture %}
@@ -46,32 +58,30 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/1600w_la_jolla_campus_09.jpg"
 %}
 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+
+{%
+  include figure.html
+  image="images/1000014768.jpg"
+%}
+
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% capture col4 %}
+
+{%
+  include figure.html
+  image="images/scripps_aerial.jpg"
+%}
+
+{% endcapture %}
+
+
+{% include cols.html col1=col3 col2=col4 %}

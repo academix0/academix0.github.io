@@ -10,18 +10,12 @@
 {% assign sections = content | split: "<!-- section break -->" | array_filter %}
 
 {% for section in sections %}
-  {% assign dark = section
-    | regex_scan: "<dark>(.*?)</dark>"
-    | default: ""
-  %}
-  {% assign image = section
-    | regex_scan: "<background>(.*?)</background>"
+  {% assign dark = section | regex_scan: "dark: (.*);" | default: "" %}
+  {% assign background = section
+    | regex_scan: "background: (.*);"
     | default: nil
   %}
-  {% assign size = section
-    | regex_scan: "<size>(.*?)</size>"
-    | default: "page"
-  %}
+  {% assign size = section | regex_scan: "size: (.*);" | default: "page" %}
 
   <section
     class="background"
@@ -29,8 +23,8 @@
     {% if dark == "true" or dark == "false" %}
       data-dark="{{ dark }}"
     {% endif %}
-    {% if image %}
-      style="--image: url('{{ image | relative_url | uri_escape }}')"
+    {% if background %}
+      style="--image: url('{{ background | relative_url }}')"
     {% endif %}
   >
     {{ section }}
