@@ -1,7 +1,7 @@
 
 # The Su Lab's Website
 
-Visit **[sulab.org](https://sulab.org)** 🚀
+Visit **[academix0.github.io](https://academix0.github.io)** 🚀
 
 ## Lab members actions
 
