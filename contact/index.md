@@ -7,8 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is part of the Department of Integrative Structural and Computational Biology at Scripps Research. We are based in La Jolla, CA, though we have many lab members and contributors distributed throughout the US and Canada.
+Info Lab is a part of the College of Computing and Informatics, Sungkyunkwan University (SKKU), and members of the Lab are leading research activities in several areas of biomedical and information security.
 
+    
 {%
   include figure.html
   image="images/scripps-research-email-logo.png"
@@ -34,15 +35,10 @@ Our lab is part of the Department of Integrative Structural and Computational Bi
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://maps.app.goo.gl/ezXbwnAmZ3QSPHW3A"
+  link="https://maps.app.goo.gl/q38WE96JXtx5wSny9"
 %}
 
-{%
-  include button.html
-  type="directions"
-  tooltip="Directions for visitors"
-  link="/contact/directions"
-%}
+
 {% include section.html %}
 
 {% capture col1 %}
