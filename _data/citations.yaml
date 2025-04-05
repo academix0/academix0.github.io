@@ -1,20 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1109/imcom64595.2025.10857574
-  title: "Towards Robust Federated Learning: Investigating Poisoning Attacks Under Clients Data Heterogeneity"
-  authors:
-  - Abdenour Soubih
-  - Seyyid Ahmed Lahmer
-  - Mohammed Abuhamad
-  - Tamer Abuhmed
-  publisher: IEEE
-  date: '2025-01-03'
-  link: https://doi.org/10.1109/IMCOM64595.2025.10857574
-  orcid: 0000-0001-9232-4843
-  abdenour-soubih-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-
 - id: doi:10.1109/ACCESS.2025.3547573
   title: "FiSC: A Novel Approach for Fitzpatrick Scale-Based Skin Analyzer\u2019s\
     \ Image Classification"
