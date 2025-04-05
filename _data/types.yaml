@@ -46,6 +46,10 @@ staff:
   icon: fa-solid fa-image-portrait
   description: Staff
 
+senior:
+  icon: fa-solid fa-user-tie
+  description: Senior Researcher
+
 visitor:
   icon: fa-solid fa-globe
   description: Visiting Scientist

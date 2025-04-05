@@ -1,36 +1,21 @@
 ---
 name: Shaker El-Sappagh
 image: images/shaker.jpg
-role: master
+role: senior
 group: active
 links:
-   orcid: 0009-0002-4648-9289
-   linkedin: abdenour-soubih-5ba56a15a
-   github: soubihabdenour
-   home-page: https://soubihabdenour.github.io/
-   google-scholar: dxgFhR8AAAAJ
+   orcid: 0000-0001-9705-1477
+   linkedin: shaker-el-sappagh-a262412b
+   github: shakerElsappagh
+   home-page: https://github.com/shakerElsappagh
+   google-scholar: NoTMvIAAAAAJ
    email: shaker@skku.edu
 ---
 
-Abdenour Soubih is a Master's student in Computer Science and Engineering at Sungkyunkwan University (SKKU), South Korea, focusing on security in machine learning, especially federated learning. Holds a Master’s and Bachelor’s degree in Computer Science from Algerian universities, with prior work in IoT and web-based systems.
-
-Research interests include IoT, wireless sensor networks, and privacy-preserving AI. Experience spans both academia and industry, with contributions to international projects like WaterMed4.0, and work involving IoT platforms, mobile app development, and network analysis.
-
-Fluent in Arabic, French, and English, with strong technical skills and active involvement in research on secure and distributed systems.
-
-
-### Education
-Sungkyunkwan University (SKKU) – Master’s Student in Computer Science and Engineering <br>
-2024 – Present
-
-University of Oran1 Ahmed Ben Bella – Master’s Degree in Computer Science<br>
-2018 – 2020
-
-UHBC University – Bachelor’s Degree in Computer Systems<br>
-2015 – 2018
+SHAKER EL-SAPPAGH received the bachelor’s degree in computer science from Information Systems Department, Faculty of Computers and Information, Cairo University, Egypt, in 1997, and the master’s degree from the same university in 2007. He received the Ph.D. degrees in computer science from Information Systems Department, Faculty of Computers and Information, Mansura University, Mansura, Egypt in 2015. In 2003, he joined the Department of Information Systems, Faculty of Computers and Information, Minia University, Egypt as a teaching assistant. Since June 2016, he has been with the Department of Information Systems, Faculty of computers and Information, Benha University as an assistant professor. He worked as a research professor at the UWB Wireless Communications Research Center in the Department of Information and Communication Engineering at Inha University, South Korea for three years (2018-2020).  He worked as a research professor at the Centro Singular de Investigación en Tecnoloxías Intelixentes (CiTIUS), Universidade de Santiago de Compostela, Santiago de Compostela, Spain for one year (2021). Now, he is an associate professor at Galala University, Egypt since 2021. He is also a senior researcher at the College of Computing and Informatics, Sungkyunkwan University, South Korea since 2021. He has publications in clinical decision support systems and semantic intelligence. His current research interests include machine learning, medical informatics, (fuzzy) ontology engineering, distributed and hybrid clinical decision support systems, semantic data modeling, fuzzy expert systems, and cloud computing. He is a reviewer in many journals, and he is very interested in the diseases’ diagnosis and treatment research.
 
 
 {% include section.html %}
 ## Publications
 
-{% include list.html data="citations" component="citation" filters="abdenour-soubih-list: true" style="rich" %}
+{% include list.html data="citations" component="citation" filters="shaker-el-seppagh-list: true" style="rich" %}
