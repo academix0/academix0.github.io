@@ -1,6 +1,6 @@
 ---
 name: Bobonazar Vokhobov 
-image: images/abdenour-soubih.jpg
+image: images/bobonazar-vokhobov.jpg
 role: combined
 group: active
 links:
