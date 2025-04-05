@@ -10,6 +10,14 @@ postdoc:
   icon: fa-solid fa-user-ninja
   description: Postdoctoral Researcher
 
+master:
+  icon: fa-solid fa-user-graduate
+  description: Master's Student
+
+combined:
+  icon: fa-solid fa-user-graduate
+  description: Combined Master/PhD Student
+
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
