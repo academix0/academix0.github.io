@@ -8,6 +8,13 @@
 
 # Thumbnail/pdf additions
 
+  - id: doi:10.1109/IMCOM64595.2025.10857574
+    image: ''
+    buttons:
+      - type: pdf
+        link: pdf/Towards_Robust_Federated_Learning_Investigating_Poisoning_Attacks_Under_Clients_Data_Heterogeneity
+          (1).pdf
+
   - id: doi:10.1101/2023.05.01.538993
     image: 
       https://www.biorxiv.org/content/biorxiv/early/2023/05/03/2023.05.01.538993/F1.large.jpg
