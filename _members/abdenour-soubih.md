@@ -4,22 +4,38 @@ image: images/abdenour-soubih.jpg
 role: master
 group: active
 links:
-   orcid: 0000-0001-9232-4843
-   linkedin: tamerih
-   github: ahueb
-   home-page: https://git.hueb.org
-   google-scholar: pLC4l6YAAAAJ
-   email: tamer@skku.edu
+   orcid: 0009-0002-4648-9289
+   linkedin: abdenour-soubih-5ba56a15a
+   github: ahuebsoubihabdenour
+   home-page: https://soubihabdenour.github.io/
+   google-scholar: dxgFhR8AAAAJ
+   email: abdenour@skku.edu
 ---
 
-Dr. Tamer ABUHMED is an associate professor in the Department of computer science and engineering at Sungkyunkwan University since September 2019. He got a Ph.D. degree from the School of Information Technology and Communication, at INHA University in August 2012. His advisor was Professor DaeHun Nyang, and he was a member of the Information Security Research Lab (ISRL). Tamer main research interests are 1) Information Security, including the design and analysis of algorithms and protocols for user authentication, software security, adversarial machine learning, and network security. 2) Computer-aided design and diagnosis methods for biomedical applications.
+Abdenour Soubih is a Master's student in Computer Science and Engineering at Sungkyunkwan University (SKKU), South Korea, focusing on security in machine learning, especially federated learning. Holds a Master’s and Bachelor’s degree in Computer Science from Algerian universities, with prior work in IoT and web-based systems.
+
+Research interests include IoT, wireless sensor networks, and privacy-preserving AI. Experience spans both academia and industry, with contributions to international projects like WaterMed4.0, and work involving IoT platforms, mobile app development, and network analysis.
+
+Fluent in Arabic, French, and English, with strong technical skills and active involvement in research on secure and distributed systems.
 
 
 ### Education
-Ph.D. (Telecommunication and information technology)
+Sungkyunkwan University (SKKU) – Suwon, South Korea
+Master’s Student in Computer Science and Engineering
+2024 – Present
+
+Research focus: Security in Machine Learning, with emphasis on Federated Learning and data privacy in distributed systems
+
+University of Oran1 Ahmed Ben Bella – Oran, Algeria
+Master’s Degree in Computer Science
+2018 – 2020
+
+UHBC University – Chlef, Algeria
+Bachelor’s Degree in Computer Systems
+2015 – 2018
 
 
 {% include section.html %}
 ## Publications
 
-{% include list.html data="citations" component="citation" filters="tamer-abuhmed-list: true" style="rich" %}
+{% include list.html data="citations" component="citation" filters="abdenour-soubih-list: true" style="rich" %}
