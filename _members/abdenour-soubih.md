@@ -20,18 +20,13 @@ Fluent in Arabic, French, and English, with strong technical skills and active i
 
 
 ### Education
-Sungkyunkwan University (SKKU) – Suwon, South Korea
-Master’s Student in Computer Science and Engineering
+Sungkyunkwan University (SKKU) – Master’s Student in Computer Science and Engineering
 2024 – Present
 
-Research focus: Security in Machine Learning, with emphasis on Federated Learning and data privacy in distributed systems
-
-University of Oran1 Ahmed Ben Bella – Oran, Algeria
-Master’s Degree in Computer Science
+University of Oran1 Ahmed Ben Bella – Master’s Degree in Computer Science
 2018 – 2020
 
-UHBC University – Chlef, Algeria
-Bachelor’s Degree in Computer Systems
+UHBC University – Bachelor’s Degree in Computer Systems
 2015 – 2018
 
 
