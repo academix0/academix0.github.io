@@ -1051,6 +1051,25 @@
   buttons:
   - type: pdf
     link: pdf/Welsh_2001.pdf
+- id: doi:10.1109/IMCOM64595.2025.10857574
+  title: 'Towards Robust Federated Learning: Investigating Poisoning Attacks Under
+    Clients Data Heterogeneity'
+  authors:
+  - Abdenour Soubih
+  - Seyyid Ahmed Lahmer
+  - Mohammed Abuhamad
+  - Tamer Abuhmed
+  publisher: 2025 19th International Conference on Ubiquitous Information Management
+    and Communication (IMCOM)
+  date: '2025-01-03'
+  link: https://doi.org/g9ck37
+  image: ''
+  buttons:
+  - type: pdf
+    link: pdf/Towards_Robust_Federated_Learning_Investigating_Poisoning_Attacks_Under_Clients_Data_Heterogeneity
+      (1).pdf
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2023.05.01.538993
   title: 'DrugMechDB: A Curated Database of Drug Mechanisms'
   authors:
