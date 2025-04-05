@@ -1,5 +1,1011 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3390/diagnostics14212385
+  title: Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression
+    Detection and Severity Assessment
+  authors:
+  - Dillan Imans
+  - Tamer Abuhmed
+  - Meshal Alharbi
+  - Shaker El-Sappagh
+  publisher: Diagnostics
+  pmid: '39518353'
+  pmcid: PMC11545061
+  date: '2024-10-25'
+  link: https://doi.org/g9b3cd
+  orcid: 0000-0001-9232-4843
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  tamer-abuhmed-list: true
+- id: doi:10.3390/info15100583
+  title: Smart Collaborative Intrusion Detection System for Securing Vehicular Networks
+    Using Ensemble Machine Learning Model
+  authors:
+  - Mostafa Mahmoud El-Gayar
+  - Faheed A. F. Alrslani
+  - Shaker El-Sappagh
+  publisher: Information
+  date: '2024-09-24'
+  link: https://doi.org/g9cmcf
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/app13063937
+  title: Toward Comprehensive Chronic Kidney Disease Prediction Based on Ensemble
+    Deep Learning Models
+  authors:
+  - Deema Mohammed Alsekait
+  - Hager Saleh
+  - Lubna Abdelkareim Gabralla
+  - Khaled Alnowaiser
+  - Shaker El-Sappagh
+  - Radhya Sahal
+  - Nora El-Rashidy
+  publisher: Applied Sciences
+  date: '2023-03-20'
+  link: https://doi.org/g9cmcg
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/diagnostics13010162
+  title: A Holistic Approach to Identify and Classify COVID-19 from Chest Radiographs,
+    ECG, and CT-Scan Images Using ShuffleNet Convolutional Neural Network
+  authors:
+  - Naeem Ullah
+  - Javed Khan
+  - Shaker El-Sappagh
+  - Nora El-Rashidy
+  - Mohammad Khan
+  publisher: Diagnostics
+  pmid: '36611454'
+  pmcid: PMC9818310
+  date: '2023-01-03'
+  link: https://doi.org/gsv89x
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/diagnostics13030492
+  title: Predicting CTS Diagnosis and Prognosis Based on Machine Learning Techniques
+  authors:
+  - Marwa Elseddik
+  - Reham R. Mostafa
+  - Ahmed Elashry
+  - Nora El-Rashidy
+  - Shaker El-Sappagh
+  - Shimaa Elgamal
+  - Ahmed Aboelfetouh
+  - Hazem El-Bakry
+  publisher: Diagnostics
+  pmid: '36766597'
+  pmcid: PMC9914125
+  date: '2023-01-29'
+  link: https://doi.org/g9cmcj
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s22239250
+  title: 'Colon Cancer Diagnosis Based on Machine Learning and Deep Learning: Modalities
+    and Analysis Techniques'
+  authors:
+  - Mai Tharwat
+  - Nehal A. Sakr
+  - Shaker El-Sappagh
+  - Hassan Soliman
+  - Kyung-Sup Kwak
+  - Mohammed Elmogy
+  publisher: Sensors
+  pmid: '36501951'
+  pmcid: PMC9739266
+  date: '2022-11-28'
+  link: https://doi.org/g9cmcn
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/app12199710
+  title: 'AHA-AO: Artificial Hummingbird Algorithm with Aquila Optimization for Efficient
+    Feature Selection in Medical Image Classification'
+  authors:
+  - Mohamed Abd Elaziz
+  - Abdelghani Dahou
+  - Shaker El-Sappagh
+  - Alhassan Mabrouk
+  - Mohamed Medhat Gaber
+  publisher: Applied Sciences
+  date: '2022-09-27'
+  link: https://doi.org/g9cmcp
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/electronics11101648
+  title: "Sentiment Analysis of Users\u2019 Reactions on Social Media during the Pandemic"
+  authors:
+  - Eldor Abdukhamidov
+  - Firuz Juraev
+  - Mohammed Abuhamad
+  - Shaker El-Sappagh
+  - Tamer AbuHmed
+  publisher: Electronics
+  date: '2022-05-22'
+  link: https://doi.org/g9b3c6
+  orcid: 0000-0001-9232-4843
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  tamer-abuhmed-list: true
+- id: doi:10.3390/electronics10141733
+  title: An Extended Semantic Interoperability Model for Distributed Electronic Health
+    Record Based on Fuzzy Ontology Semantics
+  authors:
+  - Ebtsam Adel
+  - Shaker El-Sappagh
+  - Sherif Barakat
+  - Jong-Wan Hu
+  - Mohammed Elmogy
+  publisher: Electronics
+  date: '2021-07-19'
+  link: https://doi.org/g9cmcq
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.future.2020.10.005
+  title: "Alzheimer\u2019s disease progression detection model based on an early fusion\
+    \ of cost-effective multimodal data"
+  authors:
+  - Shaker El-Sappagh
+  - Hager Saleh
+  - Radhya Sahal
+  - Tamer Abuhmed
+  - S.M. Riazul Islam
+  - Farman Ali
+  - Eslam Amer
+  publisher: Future Generation Computer Systems
+  date: '2021-02-01'
+  link: https://doi.org/g9b3df
+  orcid: 0000-0001-9232-4843
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  tamer-abuhmed-list: true
+- id: doi:10.1016/j.knosys.2020.106688
+  title: "Robust hybrid deep learning models for Alzheimer\u2019s progression detection"
+  authors:
+  - Tamer Abuhmed
+  - Shaker El-Sappagh
+  - Jose M. Alonso
+  publisher: Knowledge-Based Systems
+  date: '2021-02-01'
+  link: https://doi.org/gm64vk
+  orcid: 0000-0001-9232-4843
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  tamer-abuhmed-list: true
+- id: doi:10.1016/j.future.2020.07.047
+  title: An intelligent healthcare monitoring framework using wearable sensors and
+    social networking data
+  authors:
+  - Farman Ali
+  - Shaker El-Sappagh
+  - S.M. Riazul Islam
+  - Amjad Ali
+  - Muhammad Attique
+  - Muhammad Imran
+  - Kyung-Sup Kwak
+  publisher: Future Generation Computer Systems
+  date: '2021-01-01'
+  link: https://doi.org/gtgsq9
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/access.2020.3048435
+  title: "A Comprehensive Fuzzy Ontology-Based Decision Support System for Alzheimer\u2019\
+    s Disease Diagnosis"
+  authors:
+  - Nora Shoaip
+  - Amira Rezk
+  - Shaker El-Sappagh
+  - Louai Alarabi
+  - Sherif Barakat
+  - Mohammed M. Elmogy
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/gkdbdj
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-55190-2_36
+  title: Alzheimer Disease Prediction Model Based on Decision Fusion of CNN-BiLSTM
+    Deep Neural Networks
+  authors:
+  - Shaker El-Sappagh
+  - Tamer Abuhmed
+  - Kyung Sup Kwak
+  publisher: Advances in Intelligent Systems and Computing
+  date: '2020-08-25'
+  link: https://doi.org/g9b3dh
+  orcid: 0000-0001-9232-4843
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  tamer-abuhmed-list: true
+- id: doi:10.32604/cmc.2021.014446
+  title: Timing and Classification of Patellofemoral Osteoarthritis Patients Using
+    Fast Large Margin Classifier
+  authors:
+  - Mai Ramadan Ibraheem
+  - Jilan adel
+  - Alaa Eldin Balbaa
+  - Shaker El-Sappagh
+  - Tamer Abuhmed
+  - Mohammed Elmogy
+  publisher: Computers, Materials &amp; Continua
+  date: '2021-01-01'
+  link: https://doi.org/g9b3dn
+  orcid: 0000-0001-9232-4843
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  tamer-abuhmed-list: true
+- id: doi:10.1016/j.inffus.2020.06.008
+  title: A smart healthcare monitoring system for heart disease prediction based on
+    ensemble deep learning and feature fusion
+  authors:
+  - Farman Ali
+  - Shaker El-Sappagh
+  - S.M. Riazul Islam
+  - Daehan Kwak
+  - Amjad Ali
+  - Muhammad Imran
+  - Kyung-Sup Kwak
+  publisher: Information Fusion
+  date: '2020-11-01'
+  link: https://doi.org/gn9ttq
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/app10217673
+  title: Contextual Identification of Windows Malware through Semantic Interpretation
+    of API Call Sequence
+  authors:
+  - Eslam Amer
+  - Shaker El-Sappagh
+  - Jong Wan Hu
+  publisher: Applied Sciences
+  date: '2020-10-30'
+  link: https://doi.org/gq7qn4
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/math8111863
+  title: 'Objective Diagnosis for Histopathological Images Based on Machine Learning
+    Techniques: Classical Approaches and New Trends'
+  authors:
+  - Naira Elazab
+  - Hassan Soliman
+  - Shaker El-Sappagh
+  - S. M. Riazul Islam
+  - Mohammed Elmogy
+  publisher: Mathematics
+  date: '2020-10-24'
+  link: https://doi.org/g63k2p
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neucom.2020.05.087
+  title: "Multimodal multitask deep learning model for Alzheimer\u2019s disease progression\
+    \ detection based on time series data"
+  authors:
+  - Shaker El-Sappagh
+  - Tamer Abuhmed
+  - S.M. Riazul Islam
+  - Kyung Sup Kwak
+  publisher: Neurocomputing
+  date: '2020-10-01'
+  link: https://doi.org/gjgtgg
+  orcid: 0000-0001-9232-4843
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  tamer-abuhmed-list: true
+- id: doi:10.3390/electronics9091443
+  title: Staging Melanocytic Skin Neoplasms Using High-Level Pixel-Based Features
+  authors:
+  - Mai Ramadan Ibraheem
+  - Shaker El-Sappagh
+  - Tamer Abuhmed
+  - Mohammed Elmogy
+  publisher: Electronics
+  date: '2020-09-04'
+  link: https://doi.org/g9b3dp
+  orcid: 0000-0001-9232-4843
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  tamer-abuhmed-list: true
+- id: doi:10.3390/electronics9091439
+  title: End-To-End Deep Learning Framework for Coronavirus (COVID-19) Detection and
+    Monitoring
+  authors:
+  - Nora El-Rashidy
+  - Shaker El-Sappagh
+  - S. M. Riazul Islam
+  - Hazem M. El-Bakry
+  - Samir Abdelrazek
+  publisher: Electronics
+  date: '2020-09-03'
+  link: https://doi.org/gj2k7v
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22266/ijies2020.0630.26
+  title: A Semantic Approach for Extracting Medical Association Rules
+  authors:
+  - Mohammed Thamer
+  - Shaker El-Sappagh
+  - Tarek El-Shishtawy
+  publisher: International Journal of Intelligent Engineering and Systems
+  date: '2020-06-30'
+  link: https://doi.org/g9cmcv
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5120/ijca2020920274
+  title: A Real-time Framework for Patient Monitoring Systems based on a Wireless
+    Body Area Network
+  authors:
+  - Nora Mahmoud
+  - Shaker El-Sappagh
+  - Samir M.
+  - Hazem M.
+  publisher: International Journal of Computer Applications
+  date: '2020-06-18'
+  link: https://doi.org/g9cmcx
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tnse.2018.2877646
+  title: Quality of Service Provisioning for Heterogeneous Services in Cognitive Radio-Enabled
+    Internet of Things
+  authors:
+  - Amjad Ali
+  - Li Feng
+  - Ali Kashif Bashir
+  - Shaker El-Sappagh
+  - Syed Hassan Ahmed
+  - Muddesar Iqbal
+  - Gunasekaran Raja
+  publisher: IEEE Transactions on Network Science and Engineering
+  date: '2020-01-01'
+  link: https://doi.org/g9cmcz
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4018/ijskd.2020010106
+  title: A Proposed Frequent Itemset Discovery Algorithm Based on Item Weights and
+    Uncertainty
+  authors:
+  - Hanaa Ibrahim Abu Zahra
+  - Shaker El-Sappagh
+  - Tarek Ahmef El Shishtawy
+  publisher: International Journal of Sociotechnology and Knowledge Development
+  date: '2020-01-01'
+  link: https://doi.org/g9cmc2
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/access.2020.3008019
+  title: A Three-Step Authentication Model for Mobile Phone User Using Keystroke Dynamics
+  authors:
+  - Baljit Singh Saini
+  - Parminder Singh
+  - Anand Nayyar
+  - Navdeep Kaur
+  - Kamaljit Singh Bhatia
+  - Shaker El-Sappagh
+  - Jong-Wan Hu
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/g9cmc4
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1504/ijmei.2020.109942
+  title: A framework for disease diagnosis based on fuzzy semantic ontology approach
+  authors:
+  - Nora Shoaip
+  - Shaker El Sappagh
+  - Sherif Barakat
+  - Mohammed Elmogy
+  publisher: International Journal of Medical Engineering and Informatics
+  date: '2020-01-01'
+  link: https://doi.org/gkdbms
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1504/ijmei.2020.107081
+  title: A semantic interoperability framework for distributed electronic health record
+    based on fuzzy ontology
+  authors:
+  - Ebtsam Adel
+  - Shaker El Sappagh
+  - Sherif Barakat
+  - Mohammed Elmogy
+  publisher: International Journal of Medical Engineering and Informatics
+  date: '2020-01-01'
+  link: https://doi.org/g9cmc5
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/access.2020.2984269
+  title: 'Advancing Modern Healthcare With Nanotechnology, Nanobiosensors, and Internet
+    of Nano Things: Taxonomies, Applications, Architecture, and Challenges'
+  authors:
+  - Pijush Kanti Dutta Pramanik
+  - Arun Solanki
+  - Abhinaba Debnath
+  - Anand Nayyar
+  - Shaker El-Sappagh
+  - Kyung-Sup Kwak
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/g9cmc7
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/access.2020.3010556
+  title: 'Intensive Care Unit Mortality Prediction: An Improved Patient-Specific Stacking
+    Ensemble Model'
+  authors:
+  - Nora El-Rashidy
+  - Shaker El-Sappagh
+  - Tamer Abuhmed
+  - Samir Abdelrazek
+  - Hazem M. El-Bakry
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/g9b3dt
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/access.2020.3042273
+  title: 'Medical Diagnostic Systems Using Artificial Intelligence (AI) Algorithms:
+    Principles and Perspectives'
+  authors:
+  - Simarjeet Kaur
+  - Jimmy Singla
+  - Lewis Nkenyereye
+  - Sudan Jha
+  - Deepak Prashar
+  - Gyanendra Prasad Joshi
+  - Shaker El-Sappagh
+  - Md. Saiful Islam
+  - S. M. Riazul Islam
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/g9cmc9
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12911-019-0806-z
+  title: A mobile health monitoring-and-treatment system based on integration of the
+    SSN sensor ontology and the HL7 FHIR standard
+  authors:
+  - Shaker El-Sappagh
+  - Farman Ali
+  - Abdeltawab Hendawi
+  - Jun-Hyeog Jang
+  - Kyung-Sup Kwak
+  publisher: BMC Medical Informatics and Decision Making
+  pmid: '31077222'
+  pmcid: PMC6511155
+  date: '2019-05-10'
+  link: https://doi.org/gkdbq5
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11227-019-02984-6
+  title: Benchmarking large-scale data management for Internet of Things
+  authors:
+  - Abdeltawab Hendawi
+  - Jayant Gupta
+  - Jiayi Liu
+  - Ankur Teredesai
+  - Naveen Ramakrishnan
+  - Mohak Shah
+  - Shaker El-Sappagh
+  - Kyung-Sup Kwak
+  - Mohamed Ali
+  publisher: The Journal of Supercomputing
+  date: '2019-09-10'
+  link: https://doi.org/g9cmdb
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00500-018-3245-3
+  title: 'A case-base fuzzification process: diabetes diagnosis case study'
+  authors:
+  - Shaker El-Sappagh
+  - Mohammed Elmogy
+  - Farman Ali
+  - Kyung-Sup Kwak
+  publisher: Soft Computing
+  date: '2018-05-30'
+  link: https://doi.org/ghb4bp
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/electronics8060635
+  title: "A Comprehensive Medical Decision\u2013Support Framework Based on a Heterogeneous\
+    \ Ensemble Classifier for Diabetes Prediction"
+  authors:
+  - Shaker El-Sappagh
+  - Mohammed Elmogy
+  - Farman Ali
+  - Tamer ABUHMED
+  - S. M. Riazul Islam
+  - Kyung-Sup Kwak
+  publisher: Electronics
+  date: '2019-06-05'
+  link: https://doi.org/g9b3dv
+  orcid: 0000-0001-9232-4843
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+  tamer-abuhmed-list: true
+- id: doi:10.1016/j.knosys.2019.02.033
+  title: Transportation sentiment analysis using word embedding and ontology-based
+    topic modeling
+  authors:
+  - Farman Ali
+  - Daehan Kwak
+  - Pervez Khan
+  - Shaker El-Sappagh
+  - Amjad Ali
+  - Sana Ullah
+  - Kye Hyun Kim
+  - Kyung-Sup Kwak
+  publisher: Knowledge-Based Systems
+  date: '2019-06-01'
+  link: https://doi.org/gf8t8b
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s13369-018-3670-8
+  title: A Fibrosis Diagnosis Clinical Decision Support System Using Fuzzy Knowledge
+  authors:
+  - Sara Sweidan
+  - Shaker El-Sappagh
+  - Hazem El-Bakry
+  - Sahar Sabbeh
+  - Farid A. Badria
+  - Kyung-Sup Kwak
+  publisher: Arabian Journal for Science and Engineering
+  date: '2018-12-13'
+  link: https://doi.org/grfhqx
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s19020234
+  title: 'Fuzzy Ontology and LSTM-Based Text Mining: A Transportation Network Monitoring
+    System for Assisting Travel'
+  authors:
+  - Farman Ali
+  - Shaker El-Sappagh
+  - Daehan Kwak
+  publisher: Sensors
+  pmid: '30634527'
+  pmcid: PMC6358771
+  date: '2019-01-09'
+  link: https://doi.org/g9cmdf
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31209/2019.100000151
+  title: A Fuzzy Ontological Infrastructure for Semantic Interoperability in Distributed
+    Electronic Health Record
+  authors:
+  - Ebtsam Adel
+  - Shaker El-sappagh
+  - Mohammed Elmogy
+  - Sherif Barakat
+  - Kyung-Sup Kwak
+  publisher: Intelligent Automation and Soft Computing
+  date: '2019-01-01'
+  link: https://doi.org/g9cmdh
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/b978-0-12-815370-3.00014-1
+  title: A unified fuzzy ontology for distributed electronic health record semantic
+    interoperability
+  authors:
+  - Ebtsam Adel
+  - Shaker El-Sappagh
+  - Sherif Barakat
+  - Mohammed Elmogy
+  publisher: U-Healthcare Monitoring Systems
+  date: '2019-01-01'
+  link: https://doi.org/g9cmdj
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/access.2018.2881001
+  title: 'Mobile Health Technologies for Diabetes Mellitus: Current State and Future
+    Challenges'
+  authors:
+  - Shaker El-Sappagh
+  - Farman Ali
+  - Samir El-Masri
+  - Kyehyun Kim
+  - Amjad Ali
+  - Kyung-Sup Kwak
+  publisher: IEEE Access
+  date: '2019-01-01'
+  link: https://doi.org/g9cmdk
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/b978-0-12-815370-3.00007-4
+  title: Ontology enhanced fuzzy clinical decision support system
+  authors:
+  - Nora Shoaip
+  - Shaker El-Sappagh
+  - Sherif Barakat
+  - Mohammed Elmogy
+  publisher: U-Healthcare Monitoring Systems
+  date: '2019-01-01'
+  link: https://doi.org/g9cmdn
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/b978-0-12-815370-3.00013-x
+  title: 'Ontology-based electronic health record semantic interoperability: A survey'
+  authors:
+  - Ebtsam Adel
+  - Shaker El-Sappagh
+  - Sherif Barakat
+  - Mohammed Elmogy
+  publisher: U-Healthcare Monitoring Systems
+  date: '2019-01-01'
+  link: https://doi.org/g9cmdp
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/b978-0-12-815370-3.00004-9
+  title: 'Reasoning methodologies in clinical decision support systems: A literature
+    review'
+  authors:
+  - Nora Shoaip
+  - Shaker El-Sappagh
+  - Sherif Barakat
+  - Mohammed Elmogy
+  publisher: U-Healthcare Monitoring Systems
+  date: '2019-01-01'
+  link: https://doi.org/g9cmdr
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13326-018-0176-y
+  title: 'DMTO: a realistic ontology for standard diabetes mellitus treatment'
+  authors:
+  - Shaker El-Sappagh
+  - Daehan Kwak
+  - Farman Ali
+  - Kyung-Sup Kwak
+  publisher: Journal of Biomedical Semantics
+  pmid: '29409535'
+  pmcid: PMC5800094
+  date: '2018-02-06'
+  link: https://doi.org/ggmd7n
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12911-018-0651-5
+  title: SNOMED CT standard ontology based on the ontology for general medical science
+  authors:
+  - Shaker El-Sappagh
+  - Francesco Franda
+  - Farman Ali
+  - Kyung-Sup Kwak
+  publisher: BMC Medical Informatics and Decision Making
+  pmid: '30170591'
+  pmcid: PMC6119323
+  date: '2018-08-31'
+  link: https://doi.org/gd7br9
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/1206212x.2017.1418237
+  title: 'Distributed electronic health record based on semantic interoperability
+    using fuzzy ontology: a survey'
+  authors:
+  - Ebtsam Adel
+  - Shaker El-Sappagh
+  - Sherif Barakat
+  - Mohammed Elmogy
+  publisher: International Journal of Computers and Applications
+  date: '2017-12-28'
+  link: https://doi.org/g9cmdt
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ictc.2018.8539607
+  title: Feature-based Transportation Sentiment Analysis Using Fuzzy Ontology and
+    SentiWordNet
+  authors:
+  - Farman Ali
+  - Shaker EI-Sappagh
+  - Pervez Khan
+  - Kyung-Sup Kwak
+  publisher: 2018 International Conference on Information and Communication Technology
+    Convergence (ICTC)
+  date: '2018-10-01'
+  link: https://doi.org/g9cmdv
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1155/2018/6235379
+  title: Priority-Based Cloud Computing Architecture for Multimedia-Enabled Heterogeneous
+    Vehicular Users
+  authors:
+  - Amjad Ali
+  - Hongwu Liu
+  - Ali Kashif Bashir
+  - Shaker El-Sappagh
+  - Farman Ali
+  - Adeel Baig
+  - Daeyoung Park
+  - Kyung Sup Kwak
+  publisher: Journal of Advanced Transportation
+  date: '2018-09-27'
+  link: https://doi.org/g9cmdw
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.19101/ijacr.2018.834003
+  title: A framework for chronic kidney disease diagnosis based on case based reasoning
+  authors:
+  - Seham Abd Elkader
+  - Mohammed Elmogy
+  - Shaker El-Sappagh
+  - Abde Nasser H. Zaied
+  publisher: International Journal of Advanced Computer Research
+  date: '2018-03-26'
+  link: https://doi.org/g9cmdx
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/access.2018.2852004
+  title: An Ontology-Based Interpretable Fuzzy Decision Support System for Diabetes
+    Diagnosis
+  authors:
+  - Shaker El-Sappagh
+  - Jose M. Alonso
+  - Farman Ali
+  - Amjad Ali
+  - Jun-Hyeog Jang
+  - Kyung-Sup Kwak
+  publisher: IEEE Access
+  date: '2018-01-01'
+  link: https://doi.org/gkdbvh
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/access.2018.2868802
+  title: 'Clinical Decision Support System for Liver Fibrosis Prediction in Hepatitis
+    Patients: A Case Comparison of Two Soft Computing Techniques'
+  authors:
+  - Shaker El-Sappagh
+  - Farman Ali
+  - Amjad Ali
+  - Abdeltawab Hendawi
+  - Farid A. Badria
+  - Doug Young Suh
+  publisher: IEEE Access
+  date: '2018-01-01'
+  link: https://doi.org/gjzwvv
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jestch.2017.03.009
+  title: A fuzzy ontology modeling for case base knowledge in diabetes mellitus domain
+  authors:
+  - Shaker El-Sappagh
+  - Mohammed Elmogy
+  publisher: Engineering Science and Technology, an International Journal
+  date: '2017-06-01'
+  link: https://doi.org/grfqjz
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/access.2017.2718038
+  title: Merged Ontology and SVM-Based Information Extraction and Recommendation System
+    for Social Robots
+  authors:
+  - Farman Ali
+  - Daehan Kwak
+  - Pervez Khan
+  - Shaker Hassan A. Ei-Sappagh
+  - S. M. Riazul Islam
+  - Daeyoung Park
+  - Kyung-Sup Kwak
+  publisher: IEEE Access
+  date: '2017-01-01'
+  link: https://doi.org/g9cmdz
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jksuci.2015.10.002
+  title: An encoding methodology for medical knowledge using SNOMED CT ontology
+  authors:
+  - Shaker El-Sappagh
+  - Mohammed Elmogy
+  publisher: Journal of King Saud University - Computer and Information Sciences
+  date: '2016-07-01'
+  link: https://doi.org/ggmd56
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4018/ijdsst.2016070103
+  title: Medical Case Based Reasoning Frameworks
+  authors:
+  - Shaker El-Sappagh
+  - Mohammed Mahfouz Elmogy
+  publisher: International Journal of Decision Support System Technology
+  date: '2016-07-01'
+  link: https://doi.org/gkdb4f
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.artmed.2015.08.003
+  title: A fuzzy-ontology-oriented case-based reasoning framework for semantic diabetes
+    diagnosis
+  authors:
+  - Shaker El-Sappagh
+  - Mohammed Elmogy
+  - A.M. Riad
+  publisher: Artificial Intelligence in Medicine
+  pmid: '26303105'
+  date: '2015-11-01'
+  link: https://doi.org/f73bdn
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1504/ijmei.2015.070116
+  title: 'A CBR system for diabetes mellitus diagnosis: case-base standard data model'
+  authors:
+  - Shaker El Sappagh
+  - Mohammed Elmogy
+  - Alaa Eldin M. Riad
+  publisher: International Journal of Medical Engineering and Informatics
+  date: '2015-01-01'
+  link: https://doi.org/ggf9qc
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icces.2014.7030954
+  title: A proposed SNOMED CT ontology-based encoding methodology for diabetes diagnosis
+    case-base
+  authors:
+  - Shaker El-Sappagh
+  - Mohammed Elmogy
+  - A. M. Riad
+  - Hosam Zaghloul
+  - Farid Badria
+  publisher: 2014 9th International Conference on Computer Engineering &amp; Systems
+    (ICCES)
+  date: '2014-12-01'
+  link: https://doi.org/ggmd7j
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/infos.2014.7036701
+  title: A standard fragment of EHR relational data model for diabetes mellitus diagnosis
+  authors:
+  - Shaker El-Sappagh
+  - Mohammed El Mogy
+  - Alaa M. Riad
+  publisher: 2014 9th International Conference on Informatics and Systems
+  date: '2014-12-01'
+  link: https://doi.org/ggmd7k
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10916-014-0067-4
+  title: An Ontological Case Base Engineering Methodology for Diabetes Management
+  authors:
+  - Shaker H. El-Sappagh
+  - Samir El-Masri
+  - Mohammed Elmogy
+  - A. M. Riad
+  - Basema Saddik
+  publisher: Journal of Medical Systems
+  pmid: '24957391'
+  date: '2014-06-24'
+  link: https://doi.org/f59m8x
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jksuci.2013.03.005
+  title: A distributed clinical decision support system architecture
+  authors:
+  - Shaker H. El-Sappagh
+  - Samir El-Masri
+  publisher: Journal of King Saud University - Computer and Information Sciences
+  date: '2014-01-01'
+  link: https://doi.org/gg7mqw
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-13461-1_45
+  title: EHR Data Preparation for Case Based Reasoning Construction
+  authors:
+  - Shaker El-Sappagh
+  - Mohammed Elmogy
+  - A. M. Riad
+  - Hosam Zaghlol
+  - Farid A. Badria
+  publisher: Communications in Computer and Information Science
+  date: '2014-01-01'
+  link: https://doi.org/g9cmd5
+  orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/ACCESS.2025.3547573
   title: "FiSC: A Novel Approach for Fitzpatrick Scale-Based Skin Analyzer\u2019s\
     \ Image Classification"
@@ -43,23 +1049,6 @@
   publisher: IEEE Transactions on Reliability
   date: '2025-01-01'
   link: https://doi.org/g9b3cc
-  orcid: 0000-0001-9232-4843
-  tamer-abuhmed-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3390/diagnostics14212385
-  title: Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression
-    Detection and Severity Assessment
-  authors:
-  - Dillan Imans
-  - Tamer Abuhmed
-  - Meshal Alharbi
-  - Shaker El-Sappagh
-  publisher: Diagnostics
-  pmid: '39518353'
-  pmcid: PMC11545061
-  date: '2024-10-25'
-  link: https://doi.org/g9b3cd
   orcid: 0000-0001-9232-4843
   tamer-abuhmed-list: true
   plugin: orcid.py
@@ -494,21 +1483,6 @@
   tamer-abuhmed-list: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3390/electronics11101648
-  title: "Sentiment Analysis of Users\u2019 Reactions on Social Media during the Pandemic"
-  authors:
-  - Eldor Abdukhamidov
-  - Firuz Juraev
-  - Mohammed Abuhamad
-  - Shaker El-Sappagh
-  - Tamer AbuHmed
-  publisher: Electronics
-  date: '2022-05-22'
-  link: https://doi.org/g9b3c6
-  orcid: 0000-0001-9232-4843
-  tamer-abuhmed-list: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.jmat.2021.11.004
   title: Crystal structure guided machine learning for the discovery and design of
     intrinsically hard materials
@@ -699,51 +1673,6 @@
   tamer-abuhmed-list: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.future.2020.10.005
-  title: "Alzheimer\u2019s disease progression detection model based on an early fusion\
-    \ of cost-effective multimodal data"
-  authors:
-  - Shaker El-Sappagh
-  - Hager Saleh
-  - Radhya Sahal
-  - Tamer Abuhmed
-  - S.M. Riazul Islam
-  - Farman Ali
-  - Eslam Amer
-  publisher: Future Generation Computer Systems
-  date: '2021-02-01'
-  link: https://doi.org/g9b3df
-  orcid: 0000-0001-9232-4843
-  tamer-abuhmed-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.knosys.2020.106688
-  title: "Robust hybrid deep learning models for Alzheimer\u2019s progression detection"
-  authors:
-  - Tamer Abuhmed
-  - Shaker El-Sappagh
-  - Jose M. Alonso
-  publisher: Knowledge-Based Systems
-  date: '2021-02-01'
-  link: https://doi.org/gm64vk
-  orcid: 0000-0001-9232-4843
-  tamer-abuhmed-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/978-3-030-55190-2_36
-  title: Alzheimer Disease Prediction Model Based on Decision Fusion of CNN-BiLSTM
-    Deep Neural Networks
-  authors:
-  - Shaker El-Sappagh
-  - Tamer Abuhmed
-  - Kyung Sup Kwak
-  publisher: Advances in Intelligent Systems and Computing
-  date: '2020-08-25'
-  link: https://doi.org/g9b3dh
-  orcid: 0000-0001-9232-4843
-  tamer-abuhmed-list: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.32604/cmc.2021.019069
   title: "Alzheimer\u2019s Disease Diagnosis Based on a Semantic Rule-Based Modeling\
     \ and Reasoning Approach"
@@ -790,52 +1719,6 @@
   publisher: IEEE Access
   date: '2021-01-01'
   link: https://doi.org/g9b3dk
-  orcid: 0000-0001-9232-4843
-  tamer-abuhmed-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.32604/cmc.2021.014446
-  title: Timing and Classification of Patellofemoral Osteoarthritis Patients Using
-    Fast Large Margin Classifier
-  authors:
-  - Mai Ramadan Ibraheem
-  - Jilan adel
-  - Alaa Eldin Balbaa
-  - Shaker El-Sappagh
-  - Tamer Abuhmed
-  - Mohammed Elmogy
-  publisher: Computers, Materials &amp; Continua
-  date: '2021-01-01'
-  link: https://doi.org/g9b3dn
-  orcid: 0000-0001-9232-4843
-  tamer-abuhmed-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.neucom.2020.05.087
-  title: "Multimodal multitask deep learning model for Alzheimer\u2019s disease progression\
-    \ detection based on time series data"
-  authors:
-  - Shaker El-Sappagh
-  - Tamer Abuhmed
-  - S.M. Riazul Islam
-  - Kyung Sup Kwak
-  publisher: Neurocomputing
-  date: '2020-10-01'
-  link: https://doi.org/gjgtgg
-  orcid: 0000-0001-9232-4843
-  tamer-abuhmed-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3390/electronics9091443
-  title: Staging Melanocytic Skin Neoplasms Using High-Level Pixel-Based Features
-  authors:
-  - Mai Ramadan Ibraheem
-  - Shaker El-Sappagh
-  - Tamer Abuhmed
-  - Mohammed Elmogy
-  publisher: Electronics
-  date: '2020-09-04'
-  link: https://doi.org/g9b3dp
   orcid: 0000-0001-9232-4843
   tamer-abuhmed-list: true
   plugin: orcid.py
@@ -897,23 +1780,6 @@
   publisher: IEEE Access
   date: '2020-01-01'
   link: https://doi.org/g9b3dt
-  orcid: 0000-0001-9232-4843
-  tamer-abuhmed-list: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3390/electronics8060635
-  title: "A Comprehensive Medical Decision\u2013Support Framework Based on a Heterogeneous\
-    \ Ensemble Classifier for Diabetes Prediction"
-  authors:
-  - Shaker El-Sappagh
-  - Mohammed Elmogy
-  - Farman Ali
-  - Tamer ABUHMED
-  - S. M. Riazul Islam
-  - Kyung-Sup Kwak
-  publisher: Electronics
-  date: '2019-06-05'
-  link: https://doi.org/g9b3dv
   orcid: 0000-0001-9232-4843
   tamer-abuhmed-list: true
   plugin: orcid.py
