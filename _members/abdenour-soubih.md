@@ -6,7 +6,7 @@ group: active
 links:
    orcid: 0009-0002-4648-9289
    linkedin: abdenour-soubih-5ba56a15a
-   github: ahuebsoubihabdenour
+   github: soubihabdenour
    home-page: https://soubihabdenour.github.io/
    google-scholar: dxgFhR8AAAAJ
    email: abdenour@skku.edu
@@ -20,13 +20,13 @@ Fluent in Arabic, French, and English, with strong technical skills and active i
 
 
 ### Education
-Sungkyunkwan University (SKKU) – Master’s Student in Computer Science and Engineering
+Sungkyunkwan University (SKKU) – Master’s Student in Computer Science and Engineering <br>
 2024 – Present
 
-University of Oran1 Ahmed Ben Bella – Master’s Degree in Computer Science
+University of Oran1 Ahmed Ben Bella – Master’s Degree in Computer Science<br>
 2018 – 2020
 
-UHBC University – Bachelor’s Degree in Computer Systems
+UHBC University – Bachelor’s Degree in Computer Systems<br>
 2015 – 2018
 
 
