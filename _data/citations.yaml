@@ -1,282 +1,1010 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2023.05.01.538993
-  title: 'DrugMechDB: A Curated Database of Drug Mechanisms'
+- id: doi:10.1109/ACCESS.2025.3547573
+  title: "FiSC: A Novel Approach for Fitzpatrick Scale-Based Skin Analyzer\u2019s\
+    \ Image Classification"
   authors:
-  - Adriana Carolina Gonzalez-Cavazos
-  - Anna Tanska
-  - Michael D. Mayers
-  - Denise Carvalho-Silva
-  - Brindha Sridharan
-  - Patrik A. Rewers
-  - Umasri Sankarlal
-  - Lakshmanan Jagannathan
-  - Andrew I. Su
-  publisher: Cold Spring Harbor Laboratory
-  pmid: '37205439'
-  pmcid: PMC10187194
-  date: '2023-05-02'
-  link: https://doi.org/gtrg2f
-  orcid: 0000-0001-9615-7157
-  mike-mayers-list: true
-  plugin: sources.py
-  file: sources.yaml
-  carolina-gonzalez-cavazos-list: true
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/05/03/2023.05.01.538993/F1.large.jpg
-  buttons:
-  - type: pdf
-    link: pdf/Gonzalez-Cavazos_2023.pdf
-- id: doi:10.1093/bioinformatics/btac205
-  title: Design and application of a knowledge network for automatic prioritization
-    of drug mechanisms
-  authors:
-  - Michael Mayers
-  - Roger Tu
-  - Dylan Steinecke
-  - Tong Shu Li
-  - "N\xFAria Queralt-Rosinach"
-  - Andrew I Su
-  publisher: Bioinformatics
-  pmid: '35561182'
-  pmcid: PMC9113361
-  date: '2022-04-06'
-  link: https://doi.org/gptwsz
-  orcid: 0000-0002-9859-4104
-  mike-mayers-list: true
-  plugin: sources.py
-  file: sources.yaml
+  - Guillermo Crocker Garcia
+  - Muhammad Numan Khan
+  - Aftab Alam
+  - Josue Obregon
+  - Tamer Abuhmed
+  - Eui-Nam Huh
+  publisher: IEEE Access
+  date: '2025-01-01'
+  link: https://doi.org/g9b3b8
+  orcid: 0000-0001-9232-4843
   roger-tu-list: true
-  andrew-su-list: true
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9113361/bin/btac205f3.jpg
-  buttons:
-  - type: pdf
-    link: pdf/Mayers_2022.pdf
-- id: doi:10.1186/s12859-019-3297-0
-  title: Time-resolved evaluation of compound repositioning predictions on a text-mined
-    knowledge network
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.57197/JDR-2024-0101
+  title: 'Responsible Artificial Intelligence for Mental Health Disorders: Current
+    Applications and Future Challenges'
   authors:
-  - Michael Mayers
-  - Tong Shu Li
-  - "N\xFAria Queralt-Rosinach"
-  - Andrew I. Su
-  publisher: BMC Bioinformatics
-  pmid: '31829175'
-  pmcid: PMC6907279
-  date: '2019-12-01'
-  link: https://doi.org/ggpcsr
-  orcid: 0000-0002-9859-4104
-  mike-mayers-list: true
-  plugin: sources.py
-  file: sources.yaml
-  andrew-su-list: true
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6907279/bin/12859_2019_3297_Fig3_HTML.jpg
-  buttons:
-  - type: pdf
-    link: pdf/Mayers_2019.pdf
-- id: doi:10.1101/729475
-  title: Structured Reviews for Data and Knowledge Driven Research
-  authors:
-  - "N\xFAria Queralt-Rosinach"
-  - Gregory S. Stupp
-  - Tong Shu Li
-  - Michael Mayers
-  - Maureen E. Hoatlin
-  - Matthew Might
-  - Benjamin M. Good
-  - Andrew I. Su
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-08-12'
-  link: https://doi.org/gkxdqp
-  orcid: 0000-0002-7792-0150
-  mike-mayers-list: true
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2019/08/12/729475/F4.medium.gif
-  buttons:
-  - type: pdf
-    link: pdf/Queralt-Rosinach_2019.pdf
-- id: doi:10.1101/564187
-  title: Applying Citizen Science to Gene, Drug, Disease Relationship Extraction from
-    Biomedical Abstracts
-  authors:
-  - Ginger Tsueng
-  - Max Nanis
-  - Jennifer T. Fouquier
-  - Michael Mayers
-  - Benjamin M. Good
-  - Andrew I Su
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-02-28'
-  link: https://doi.org/gkv78t
-  orcid: 0000-0002-7792-0150
-  mike-mayers-list: true
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2019/02/28/564187/F2.medium.gif
-  buttons:
-  - type: pdf
-    link: pdf/Tsueng_2019.pdf
-- id: doi:10.1021/acs.jproteome.6b00938
-  title: Quantitative Metaproteomics and Activity-Based Probe Enrichment Reveals Significant
-    Alterations in Protein Expression from a Mouse Model of Inflammatory Bowel Disease
-  authors:
-  - Michael D. Mayers
-  - Clara Moon
-  - Gregory S. Stupp
-  - Andrew I. Su
-  - Dennis W. Wolan
-  publisher: Journal of Proteome Research
-  pmid: '28052195'
-  pmcid: PMC5441882
-  date: '2017-01-23'
-  link: https://doi.org/f9q8c4
-  orcid: 0000-0002-9859-4104
-  mike-mayers-list: true
-  plugin: sources.py
-  file: sources.yaml
-  andrew-su-list: true
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5441882/bin/nihms857524f2.jpg
-  buttons:
-  - type: pdf
-    link: pdf/Mayers_2017.pdf
-- id: doi:10.7554/elife.52614
-  title: Wikidata as a knowledge graph for the life sciences
-  authors:
-  - Andra Waagmeester
-  - Gregory Stupp
-  - Sebastian Burgstaller-Muehlbacher
-  - Benjamin M Good
-  - Malachi Griffith
-  - Obi L Griffith
-  - Kristina Hanspers
-  - Henning Hermjakob
-  - Toby S Hudson
-  - Kevin Hybiske
-  - Sarah M Keating
-  - Magnus Manske
-  - Michael Mayers
-  - Daniel Mietchen
-  - Elvira Mitraka
-  - Alexander R Pico
-  - Timothy Putman
-  - Anders Riutta
-  - Nuria Queralt-Rosinach
-  - Lynn M Schriml
-  - Thomas Shafee
-  - Denise Slenter
-  - Ralf Stephan
-  - Katherine Thornton
-  - Ginger Tsueng
-  - Roger Tu
-  - Sabah Ul-Hasan
-  - Egon Willighagen
-  - Chunlei Wu
-  - Andrew I Su
-  publisher: eLife
-  pmid: '32180547'
-  pmcid: PMC7077981
-  date: '2020-03-17'
-  link: https://doi.org/ggqqc6
-  orcid: 0000-0002-9859-4104
+  - Shaker El-Sappagh
+  - Waleed Nazih
+  - Meshal Alharbi
+  - Tamer Abuhmed
+  publisher: Journal of Disability Research
+  date: '2025-01-01'
+  link: https://doi.org/g9b3b9
+  orcid: 0000-0001-9232-4843
   roger-tu-list: true
-  plugin: sources.py
-  file: sources.yaml
-  andrew-su-list: true
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7077981/bin/elife-52614-fig1.jpg
-  buttons:
-  - type: pdf
-    link: pdf/Waagmeester_2020.pdf
-- id: doi:10.1371/journal.pone.0173375
-  title: Effects of diluents on cell culture viability measured by automated cell
-    counter
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TR.2025.3551717
+  title: Stealthy Query-Efficient Opaque Attack Against Interpretable Deep Learning
   authors:
-  - Aaron Chen
-  - Matthew Leith
-  - Roger Tu
-  - Gurpreet Tahim
-  - Anish Sudra
-  - Swapnil Bhargava
+  - Eldor Abdukhamidov
+  - Mohammed Abuhamad
+  - Simon S. Woo
+  - Eric Chan-Tin
+  - Tamer Abuhmed
+  publisher: IEEE Transactions on Reliability
+  date: '2025-01-01'
+  link: https://doi.org/g9b3cc
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/diagnostics14212385
+  title: Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression
+    Detection and Severity Assessment
+  authors:
+  - Dillan Imans
+  - Tamer Abuhmed
+  - Meshal Alharbi
+  - Shaker El-Sappagh
+  publisher: Diagnostics
+  pmid: '39518353'
+  pmcid: PMC11545061
+  date: '2024-10-25'
+  link: https://doi.org/g9b3cd
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cmpb.2024.108348
+  title: Alzheimer's disease diagnosis in the metaverse
+  authors:
+  - Jalal Safari Bazargani
+  - Nasir Rahim
+  - Abolghasem Sadeghi-Niaraki
+  - Tamer Abuhmed
+  - Houbing Song
+  - Soo-Mi Choi
+  publisher: Computer Methods and Programs in Biomedicine
+  pmid: '39067138'
+  date: '2024-10-01'
+  link: https://doi.org/g838mg
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TDSC.2023.3341090
+  title: 'Hardening Interpretable Deep Learning Systems: Investigating Adversarial
+    Threats and Defenses'
+  authors:
+  - Eldor Abdukhamidov
+  - Mohammed Abuhamad
+  - Simon S. Woo
+  - Eric Chan-Tin
+  - Tamer Abuhmed
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2024-07-01'
+  link: https://doi.org/g9b3cf
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TIFS.2024.3407652
+  title: 'SingleADV: Single-Class Target-Specific Attack Against Interpretable Deep
+    Learning Systems'
+  authors:
+  - Eldor Abdukhamidov
+  - Mohammed Abuhamad
+  - George K. Thiruvathukal
+  - Hyoungshick Kim
+  - Tamer Abuhmed
+  publisher: IEEE Transactions on Information Forensics and Security
+  date: '2024-01-01'
+  link: https://doi.org/g9b3ch
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.inffus.2023.101805
+  title: 'Explainable Artificial Intelligence (XAI): What we know and what is left
+    to attain Trustworthy Artificial Intelligence'
+  authors:
+  - Sajid Ali
+  - Tamer Abuhmed
+  - Shaker El-Sappagh
+  - Khan Muhammad
+  - Jose M. Alonso-Moral
+  - Roberto Confalonieri
+  - Riccardo Guidotti
+  - Javier Del Ser
+  - "Natalia D\xEDaz-Rodr\xEDguez"
+  - Francisco Herrera
+  publisher: Information Fusion
+  date: '2023-11-01'
+  link: https://doi.org/gsrxxb
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.aej.2023.09.050
+  title: "Time-series visual explainability for Alzheimer\u2019s disease progression\
+    \ detection for smart healthcare"
+  authors:
+  - Nasir Rahim
+  - Tamer Abuhmed
+  - Seyedali Mirjalili
+  - Shaker El-Sappagh
+  - Khan Muhammad
+  publisher: Alexandria Engineering Journal
+  date: '2023-11-01'
+  link: https://doi.org/g9b3cj
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10462-023-10415-5
+  title: "Trustworthy artificial intelligence in Alzheimer\u2019s disease: state of\
+    \ the art, opportunities, and challenges"
+  authors:
+  - Shaker El-Sappagh
+  - Jose M. Alonso-Moral
+  - Tamer Abuhmed
+  - Farman Ali
+  - "Alberto Bugar\xEDn-Diz"
+  publisher: Artificial Intelligence Review
+  date: '2023-03-12'
+  link: https://doi.org/gtnpbk
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-023-42796-6
+  title: Computer aided progression detection model based on optimized deep LSTM ensemble
+    model and the fusion of multivariate time series data
+  authors:
+  - Hager Saleh
+  - Eslam Amer
+  - Tamer Abuhmed
+  - Amjad Ali
+  - Ala Al-Fuqaha
+  - Shaker El-Sappagh
+  publisher: Scientific Reports
+  pmid: '37770490'
+  pmcid: PMC10539296
+  date: '2023-09-28'
+  link: https://doi.org/g9b3ck
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/app13169425
+  title: 'TruMuzic: A Deep Learning and Data Provenance-Based Approach to Evaluating
+    the Authenticity of Music'
+  authors:
+  - Kuldeep Gurjar
+  - Yang-Sae Moon
+  - Tamer Abuhmed
+  publisher: Applied Sciences
+  date: '2023-08-19'
+  link: https://doi.org/g9b3cm
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20944/preprints202307.0585.v1
+  title: 'Underwater Image Restoration and Enhancement: A Comprehensive Review of
+    Recent Trends, Challenges, and Applications'
+  authors:
+  - Yasmin M. Alsakar
+  - Nehal A Sakr
+  - Shaker El-Sappagh
+  - Tamer Abuhmed
+  - Mohammed Elmogy
+  publisher: MDPI AG
+  date: '2023-07-10'
+  link: https://doi.org/g9b3cp
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/10095020.2022.2088303
+  title: An approach for measuring spatial similarity among COVID-19 epicenters
+  authors:
+  - Neda Kaffash Charandabi
+  - Abolghasem Sadeghi-Niaraki
+  - Soo-Mi Choi
+  - Tamer Abuhmed
+  publisher: Geo-spatial Information Science
+  date: '2022-07-05'
+  link: https://doi.org/g9b3cq
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: arxiv:2307.06496
+  title: Microbial Genetic Algorithm-based Black-box Attack against Interpretable
+    Deep Learning Systems
+  authors:
+  - Eldor Abdukhamidov
+  - Mohammed Abuhamad
+  - Simon S. Woo
+  - Eric Chan-Tin
+  - Tamer Abuhmed
+  publisher: arXiv
+  date: '2024-02-19'
+  link: https://arxiv.org/abs/2307.06496
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: arxiv:2307.06484
+  title: Single-Class Target-Specific Attack against Interpretable Deep Learning Systems
+  authors:
+  - Eldor Abdukhamidov
+  - Mohammed Abuhamad
+  - George K. Thiruvathukal
+  - Hyoungshick Kim
+  - Tamer Abuhmed
+  publisher: arXiv
+  date: '2024-02-19'
+  link: https://arxiv.org/abs/2307.06484
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: arxiv:2307.11906
+  title: Unveiling Vulnerabilities in Interpretable Deep Learning Systems with Query-Efficient
+    Black-box Attacks
+  authors:
+  - Eldor Abdukhamidov
+  - Mohammed Abuhamad
+  - Simon S. Woo
+  - Eric Chan-Tin
+  - Tamer Abuhmed
+  publisher: arXiv
+  date: '2024-02-19'
+  link: https://arxiv.org/abs/2307.11906
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/f14071325
+  title: Wildfire Susceptibility Mapping Using Deep Learning Algorithms in Two Satellite
+    Imagery Dataset
+  authors:
+  - Nazanin Bahadori
+  - Seyed Vahid Razavi-Termeh
+  - Abolghasem Sadeghi-Niaraki
+  - Khalifa M. Al-Kindi
+  - Tamer Abuhmed
+  - Behrokh Nazeri
+  - Soo-Mi Choi
+  publisher: Forests
+  date: '2023-06-28'
+  link: https://doi.org/g9b3cs
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNSM.2022.3200741
+  title: Effective Multitask Deep Learning for IoT Malware Detection and Identification
+    Using Behavioral Traffic Analysis
+  authors:
+  - Sajid Ali
+  - Omar Abusabha
+  - Farman Ali
+  - Muhammad Imran
+  - Tamer Abuhmed
+  publisher: IEEE Transactions on Network and Service Management
+  date: '2023-06-01'
+  link: https://doi.org/g9b3ct
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cmpb.2023.107495
+  title: "Explainable machine learning models based on multimodal time-series data\
+    \ for the early detection of Parkinson\u2019s disease"
+  authors:
+  - Muhammad Junaid
+  - Sajid Ali
+  - Fatma Eid
+  - Shaker El-Sappagh
+  - Tamer Abuhmed
+  publisher: Computer Methods and Programs in Biomedicine
+  pmid: '37003039'
+  date: '2023-06-01'
+  link: https://doi.org/gtgxft
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0285455
+  title: Henry gas solubility optimization double machine learning classifier for
+    neurosurgical patients
+  authors:
+  - Diana T. Mosa
+  - Amena Mahmoud
+  - John Zaki
+  - Shaymaa E. Sorour
+  - Shaker El-Sappagh
+  - Tamer Abuhmed
   publisher: PLOS ONE
-  pmid: '28264018'
-  pmcid: PMC5338812
-  date: '2017-03-06'
-  link: https://doi.org/f9s3sj
-  orcid: 0000-0002-7899-1604
+  pmid: '37167226'
+  pmcid: PMC10174516
+  date: '2023-05-11'
+  link: https://doi.org/gs6qrs
+  orcid: 0000-0001-9232-4843
   roger-tu-list: true
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5338812/bin/pone.0173375.g001.jpg
-  buttons:
-  - type: pdf
-    link: pdf/Chen_2017.pdf
-- id: doi:10.3390/ma9030196
-  title: Nanotextured Shrink Wrap Superhydrophobic Surfaces by Argon Plasma Etching
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32604/csse.2023.036371
+  title: "Early Detection of Alzheimer\u2019s Disease Based on Laplacian Re-Decomposition\
+    \ and XGBoosting"
   authors:
-  - Jolie Nokes
-  - Himanshu Sharma
-  - Roger Tu
-  - Monica Kim
-  - Michael Chu
-  - Ali Siddiqui
-  - Michelle Khine
-  publisher: Materials
-  pmid: '28773318'
-  pmcid: PMC5456652
-  date: '2016-03-14'
-  link: https://doi.org/f8h9tw
-  orcid: 0000-0002-7899-1604
+  - Hala Ahmed
+  - Hassan Soliman
+  - Shaker El-Sappagh
+  - Tamer Abuhmed
+  - Mohammed Elmogy
+  publisher: Computer Systems Science and Engineering
+  date: '2023-01-01'
+  link: https://doi.org/g9b3cw
+  orcid: 0000-0001-9232-4843
   roger-tu-list: true
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5456652/bin/materials-09-00196-g001.jpg
-  buttons:
-  - type: pdf
-    link: pdf/Nokes_2016.pdf
-- id: doi:10.1016/j.biomaterials.2013.10.007
-  title: Integrated platform for functional monitoring of biomimetic heart sheets
-    derived from human pluripotent stem cells
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.inffus.2022.11.028
+  title: Prediction of Alzheimer's progression based on multimodal Deep-Learning-based
+    fusion and visual Explainability of time-series data
   authors:
-  - Aaron Chen
-  - Eugene Lee
-  - Roger Tu
-  - Kevin Santiago
-  - Anna Grosberg
-  - Charless Fowlkes
-  - Michelle Khine
-  publisher: Biomaterials
-  pmid: '24144905'
-  pmcid: PMC9300448
-  date: '2014-01-01'
-  link: https://doi.org/f5kqqz
-  orcid: 0000-0002-7899-1604
+  - Nasir Rahim
+  - Shaker El-Sappagh
+  - Sajid Ali
+  - Khan Muhammad
+  - Javier Del Ser
+  - Tamer Abuhmed
+  publisher: Information Fusion
+  date: '2023-04-01'
+  link: https://doi.org/g9b3cx
+  orcid: 0000-0001-9232-4843
   roger-tu-list: true
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9300448/bin/nihms-1790024-f0003.jpg
-  buttons:
-  - type: pdf
-    link: pdf/Chen_2014.pdf
-- id: doi:10.1007/978-1-4939-1047-2_9
-  title: Shrink-Induced Biomimetic Wrinkled Substrates for Functional Cardiac Cell
-    Alignment and Culture
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-023-27815-w
+  title: "A deep learning based dual encoder\u2013decoder framework for anatomical\
+    \ structure segmentation in chest X-ray images"
   authors:
-  - Nicole Mendoza
-  - Roger Tu
-  - Aaron Chen
-  - Eugene Lee
-  - Michelle Khine
-  publisher: Methods in Molecular Biology
-  pmid: '25070330'
-  date: '2014-01-01'
-  link: https://doi.org/f6j8hj
-  orcid: 0000-0002-7899-1604
+  - Ihsan Ullah
+  - Farman Ali
+  - Babar Shah
+  - Shaker El-Sappagh
+  - Tamer Abuhmed
+  - Sang Hyun Park
+  publisher: Scientific Reports
+  pmid: '36646735'
+  pmcid: PMC9842654
+  date: '2023-01-16'
+  link: https://doi.org/g55f46
+  orcid: 0000-0001-9232-4843
   roger-tu-list: true
-  plugin: sources.py
-  file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-4939-1047-2_9/MediaObjects/305869_1_En_9_Fig1_HTML.gif?as=webp
-  buttons:
-  - type: pdf
-    link: pdf/Mendoza_2014.pdf
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/JBHI.2022.3202178
+  title: Multitask Deep Learning for Cost-Effective Prediction of Patient's Length
+    of Stay and Readmission State Using Multimodal Physical Activity Sensory Data
+  authors:
+  - Sajid Ali
+  - Shaker El-Sappagh
+  - Farman Ali
+  - Muhammad Imran
+  - Tamer Abuhmed
+  publisher: IEEE Journal of Biomedical and Health Informatics
+  pmid: '36037451'
+  date: '2022-12-01'
+  link: https://doi.org/g9b3cz
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/su142315681
+  title: 'AR Search Engine: Semantic Information Retrieval for Augmented Reality Domain'
+  authors:
+  - Maryam Shakeri
+  - Abolghasem Sadeghi-Niaraki
+  - Soo-Mi Choi
+  - Tamer AbuHmed
+  publisher: Sustainability
+  date: '2022-11-25'
+  link: https://doi.org/gr6s9n
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neucom.2022.09.009
+  title: "Automatic detection of Alzheimer\u2019s disease progression: An efficient\
+    \ information fusion approach with heterogeneous ensemble classifiers"
+  authors:
+  - Shaker El-Sappagh
+  - Farman Ali
+  - Tamer Abuhmed
+  - Jaiteg Singh
+  - Jose M. Alonso
+  publisher: Neurocomputing
+  date: '2022-11-01'
+  link: https://doi.org/g9b3c3
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: arxiv:2211.15926
+  title: 'Interpretations Cannot Be Trusted: Stealthy and Effective Adversarial Perturbations
+    against Interpretable Deep Learning'
+  authors:
+  - Eldor Abdukhamidov
+  - Mohammed Abuhamad
+  - Simon S. Woo
+  - Eric Chan-Tin
+  - Tamer Abuhmed
+  publisher: arXiv
+  date: '2024-02-19'
+  link: https://arxiv.org/abs/2211.15926
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jbi.2022.104216
+  title: Multilayer dynamic ensemble model for intensive care unit mortality prediction
+    of neonate patients
+  authors:
+  - Firuz Juraev
+  - Shaker El-Sappagh
+  - Eldor Abdukhamidov
+  - Farman Ali
+  - Tamer Abuhmed
+  publisher: Journal of Biomedical Informatics
+  pmid: '36208833'
+  date: '2022-11-01'
+  link: https://doi.org/g9b3c4
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00521-022-07263-9
+  title: "Two-stage deep learning model for Alzheimer\u2019s disease detection and\
+    \ prediction of the mild cognitive impairment time"
+  authors:
+  - Shaker El-Sappagh
+  - Hager Saleh
+  - Farman Ali
+  - Eslam Amer
+  - Tamer Abuhmed
+  publisher: Neural Computing and Applications
+  date: '2022-05-08'
+  link: https://doi.org/gtpjxh
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/electronics11101648
+  title: "Sentiment Analysis of Users\u2019 Reactions on Social Media during the Pandemic"
+  authors:
+  - Eldor Abdukhamidov
+  - Firuz Juraev
+  - Mohammed Abuhamad
+  - Shaker El-Sappagh
+  - Tamer AbuHmed
+  publisher: Electronics
+  date: '2022-05-22'
+  link: https://doi.org/g9b3c6
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmat.2021.11.004
+  title: Crystal structure guided machine learning for the discovery and design of
+    intrinsically hard materials
+  authors:
+  - Russlan Jaafreh
+  - Tamer Abuhmed
+  - Jung-Gu Kim
+  - Kotiba Hamad
+  publisher: Journal of Materiomics
+  date: '2022-05-01'
+  link: https://doi.org/g9b3c7
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00521-021-06631-1
+  title: Sepsis prediction in intensive care unit based on genetic feature optimization
+    and stacked deep ensemble learning
+  authors:
+  - Nora El-Rashidy
+  - Tamer Abuhmed
+  - Louai Alarabi
+  - Hazem M. El-Bakry
+  - Samir Abdelrazek
+  - Farman Ali
+  - Shaker El-Sappagh
+  publisher: Neural Computing and Applications
+  date: '2021-11-03'
+  link: https://doi.org/g9b3c8
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/math10050766
+  title: A Comparative Study of Strain Rate Constitutive and Machine Learning Models
+    for Flow Behavior of AZ31-0.5 Ca Mg Alloy during Hot Deformation
+  authors:
+  - Umer Masood Chaudry
+  - Russlan Jaafreh
+  - Abdul Malik
+  - Tea-Sung Jun
+  - Kotiba Hamad
+  - Tamer Abuhmed
+  publisher: Mathematics
+  date: '2022-02-27'
+  link: https://doi.org/g9b3c9
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jallcom.2021.162104
+  title: Age-hardening behavior guided by the multi-objective evolutionary algorithm
+    and machine learning
+  authors:
+  - Russlan Jaafreh
+  - Umer Masood Chaudry
+  - Kotiba Hamad
+  - Tamer Abuhmed
+  publisher: Journal of Alloys and Compounds
+  date: '2022-02-01'
+  link: https://doi.org/gqb5kb
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/math10030351
+  title: An Enhanced Grey Wolf Optimizer with a Velocity-Aided Global Search Mechanism
+  authors:
+  - Farshad Rezaei
+  - Hamid Reza Safavi
+  - Mohamed Abd Elaziz
+  - Shaker H. Ali El-Sappagh
+  - Mohammed Azmi Al-Betar
+  - Tamer Abuhmed
+  publisher: Mathematics
+  date: '2022-01-24'
+  link: https://doi.org/gtq6g4
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2022.3229440
+  title: An IoT-Based Approach for Learning Geometric Shapes in Early Childhood
+  authors:
+  - Jalal Safari Bazargani
+  - Abolghasem Sadeghi-Niaraki
+  - Fatema Rahimi
+  - Tamer Abuhmed
+  - Soo-Mi Choi
+  publisher: IEEE Access
+  date: '2022-01-01'
+  link: https://doi.org/g4n4s4
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1155/2021/8439655
+  title: "The Role of Medication Data to Enhance the Prediction of Alzheimer\u2019\
+    s Progression Using Machine Learning"
+  authors:
+  - Shaker El-Sappagh
+  - Tamer Abuhmed
+  - Bader Alouffi
+  - Radhya Sahal
+  - Naglaa Abdelhade
+  - Hager Saleh
+  publisher: Computational Intelligence and Neuroscience
+  pmid: '34603436'
+  pmcid: PMC8481044
+  date: '2021-01-01'
+  link: https://doi.org/g6srcw
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/electronics10161956
+  title: A Short Review on the Machine Learning-Guided Oxygen Uptake Prediction for
+    Sport Science Applications
+  authors:
+  - Haneen Alzamer
+  - Tamer Abuhmed
+  - Kotiba Hamad
+  publisher: Electronics
+  date: '2021-08-13'
+  link: https://doi.org/g9b3dc
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3461666
+  title: Large-scale and Robust Code Authorship Identification with Deep Feature Learning
+  authors:
+  - Mohammed Abuhamad
+  - Tamer Abuhmed
+  - David Mohaisen
+  - Daehun Nyang
+  publisher: ACM Transactions on Privacy and Security
+  date: '2021-07-19'
+  link: https://doi.org/gprnz3
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/diagnostics11071155
+  title: Comprehensive Survey of Using Machine Learning in the COVID-19 Pandemic
+  authors:
+  - Nora El-Rashidy
+  - Samir Abdelrazik
+  - Tamer Abuhmed
+  - Eslam Amer
+  - Farman Ali
+  - Jong-Wan Hu
+  - Shaker El-Sappagh
+  publisher: Diagnostics
+  pmid: '34202587'
+  pmcid: PMC8303306
+  date: '2021-06-24'
+  link: https://doi.org/gnr6cf
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: arxiv:2103.13032
+  title: "An Exploration of Geo-temporal Characteristics of Users' Reactions on\n\
+    \  Social Media During the Pandemic"
+  authors:
+  - Eldor Abdukhamidov
+  - Firuz Juraev
+  - Mohammed Abuhamad
+  - Tamer AbuHmed
+  publisher: arXiv
+  date: '2024-02-19'
+  link: https://arxiv.org/abs/2103.13032
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mtcomm.2020.101897
+  title: Machine learning-aided design of aluminum alloys with high performance
+  authors:
+  - Umer Masood Chaudry
+  - Kotiba Hamad
+  - Tamer Abuhmed
+  publisher: Materials Today Communications
+  date: '2021-03-01'
+  link: https://doi.org/gqb5kd
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.future.2020.10.005
+  title: "Alzheimer\u2019s disease progression detection model based on an early fusion\
+    \ of cost-effective multimodal data"
+  authors:
+  - Shaker El-Sappagh
+  - Hager Saleh
+  - Radhya Sahal
+  - Tamer Abuhmed
+  - S.M. Riazul Islam
+  - Farman Ali
+  - Eslam Amer
+  publisher: Future Generation Computer Systems
+  date: '2021-02-01'
+  link: https://doi.org/g9b3df
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.knosys.2020.106688
+  title: "Robust hybrid deep learning models for Alzheimer\u2019s progression detection"
+  authors:
+  - Tamer Abuhmed
+  - Shaker El-Sappagh
+  - Jose M. Alonso
+  publisher: Knowledge-Based Systems
+  date: '2021-02-01'
+  link: https://doi.org/gm64vk
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-55190-2_36
+  title: Alzheimer Disease Prediction Model Based on Decision Fusion of CNN-BiLSTM
+    Deep Neural Networks
+  authors:
+  - Shaker El-Sappagh
+  - Tamer Abuhmed
+  - Kyung Sup Kwak
+  publisher: Advances in Intelligent Systems and Computing
+  date: '2020-08-25'
+  link: https://doi.org/g9b3dh
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32604/cmc.2021.019069
+  title: "Alzheimer\u2019s Disease Diagnosis Based on a Semantic Rule-Based Modeling\
+    \ and Reasoning Approach"
+  authors:
+  - Nora Shoaip
+  - Amira Rezk
+  - Shaker EL-Sappagh
+  - Tamer Abuhmed
+  - Sherif Barakat
+  - Mohammed Elmogy
+  publisher: Computers, Materials &amp; Continua
+  date: '2021-01-01'
+  link: https://doi.org/g869jj
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2021.3052870
+  title: Automatic Diabetic Retinopathy Grading System Based on Detecting Multiple
+    Retinal Lesions
+  authors:
+  - Eman Abdelmaksoud
+  - Shaker El-Sappagh
+  - Sherif Barakat
+  - Tamer Abuhmed
+  - Mohammed Elmogy
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/g9b3dj
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2021.3090998
+  title: Classification and Analysis of Android Malware Images Using Feature Fusion
+    Technique
+  authors:
+  - Jaiteg Singh
+  - Deepak Thakur
+  - Tanya Gera
+  - Babar Shah
+  - Tamer Abuhmed
+  - Farman Ali
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/g9b3dk
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32604/cmc.2021.014446
+  title: Timing and Classification of Patellofemoral Osteoarthritis Patients Using
+    Fast Large Margin Classifier
+  authors:
+  - Mai Ramadan Ibraheem
+  - Jilan adel
+  - Alaa Eldin Balbaa
+  - Shaker El-Sappagh
+  - Tamer Abuhmed
+  - Mohammed Elmogy
+  publisher: Computers, Materials &amp; Continua
+  date: '2021-01-01'
+  link: https://doi.org/g9b3dn
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neucom.2020.05.087
+  title: "Multimodal multitask deep learning model for Alzheimer\u2019s disease progression\
+    \ detection based on time series data"
+  authors:
+  - Shaker El-Sappagh
+  - Tamer Abuhmed
+  - S.M. Riazul Islam
+  - Kyung Sup Kwak
+  publisher: Neurocomputing
+  date: '2020-10-01'
+  link: https://doi.org/gjgtgg
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/electronics9091443
+  title: Staging Melanocytic Skin Neoplasms Using High-Level Pixel-Based Features
+  authors:
+  - Mai Ramadan Ibraheem
+  - Shaker El-Sappagh
+  - Tamer Abuhmed
+  - Mohammed Elmogy
+  publisher: Electronics
+  date: '2020-09-04'
+  link: https://doi.org/g9b3dp
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/e22080841
+  title: Performance Analysis and Constellation Design for the Parallel Quadrature
+    Spatial Modulation
+  authors:
+  - Manar Mohaisen
+  - Tasnim Holoubi
+  - Tamer Abuhmed
+  publisher: Entropy
+  pmid: '33286611'
+  pmcid: PMC7517441
+  date: '2020-07-30'
+  link: https://doi.org/g9b3dq
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2478/popets-2020-0044
+  title: "Multi-\u03C7: Identifying Multiple Authors from Source Code Files"
+  authors:
+  - Mohammed Abuhamad
+  - Tamer Abuhmed
+  - DaeHun Nyang
+  - David Mohaisen
+  publisher: Proceedings on Privacy Enhancing Technologies
+  date: '2020-07-01'
+  link: https://doi.org/g9b3dr
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/JIOT.2020.2975779
+  title: 'AUTo<i>Sen</i>: Deep-Learning-Based Implicit Continuous Authentication Using
+    Smartphone Sensors'
+  authors:
+  - Mohammed Abuhamad
+  - Tamer Abuhmed
+  - David Mohaisen
+  - DaeHun Nyang
+  publisher: IEEE Internet of Things Journal
+  date: '2020-06-01'
+  link: https://doi.org/gn7t2d
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2020.3010556
+  title: 'Intensive Care Unit Mortality Prediction: An Improved Patient-Specific Stacking
+    Ensemble Model'
+  authors:
+  - Nora El-Rashidy
+  - Shaker El-Sappagh
+  - Tamer Abuhmed
+  - Samir Abdelrazek
+  - Hazem M. El-Bakry
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/g9b3dt
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/electronics8060635
+  title: "A Comprehensive Medical Decision\u2013Support Framework Based on a Heterogeneous\
+    \ Ensemble Classifier for Diabetes Prediction"
+  authors:
+  - Shaker El-Sappagh
+  - Mohammed Elmogy
+  - Farman Ali
+  - Tamer ABUHMED
+  - S. M. Riazul Islam
+  - Kyung-Sup Kwak
+  publisher: Electronics
+  date: '2019-06-05'
+  link: https://doi.org/g9b3dv
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.future.2018.12.038
+  title: Code authorship identification using convolutional neural networks
+  authors:
+  - Mohammed Abuhamad
+  - Ji-su Rhim
+  - Tamer AbuHmed
+  - Sana Ullah
+  - Sanggil Kang
+  - DaeHun Nyang
+  publisher: Future Generation Computer Systems
+  date: '2019-06-01'
+  link: https://doi.org/g9b3dw
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3243734.3243738
+  title: Large-Scale and Language-Oblivious Code Authorship Identification
+  authors:
+  - Mohammed Abuhamad
+  - Tamer AbuHmed
+  - Aziz Mohaisen
+  - DaeHun Nyang
+  publisher: Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications
+    Security
+  date: '2018-10-15'
+  link: https://doi.org/gnrn69
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/access.2017.2768564
+  title: "A Fuzzy Ontology and SVM\u2013Based Web Content Classification System"
+  authors:
+  - Farman Ali
+  - Pervez Khan
+  - Kashif Riaz
+  - Daehan Kwak
+  - Tamer Abuhmed
+  - Daeyoung Park
+  - Kyung Sup Kwak
+  publisher: IEEE Access
+  date: '2017-01-01'
+  link: https://doi.org/gddktn
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/thms.2015.2449309
+  title: 'UOIT Keyboard: A Constructive Keyboard for Small Touchscreen Devices'
+  authors:
+  - Tamer AbuHmed
+  - Kyunghee Lee
+  - DaeHun Nyang
+  publisher: IEEE Transactions on Human-Machine Systems
+  date: '2015-12-01'
+  link: https://doi.org/g5h28r
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/GLOCOM.2009.5425280
+  title: Software-Based Remote Code Attestation in Wireless Sensor Network
+  authors:
+  - Tamer AbuHmed
+  - Nandinbold Nyamaa
+  - DaeHun Nyang
+  publisher: GLOBECOM 2009 - 2009 IEEE Global Telecommunications Conference
+  date: '2009-11-01'
+  link: https://doi.org/fqs4ds
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: arxiv:0803.0037
+  title: A Survey on Deep Packet Inspection for Intrusion Detection Systems
+  authors:
+  - Tamer AbuHmed
+  - Abedelaziz Mohaisen
+  - DaeHun Nyang
+  publisher: arXiv
+  date: '2024-02-19'
+  link: https://arxiv.org/abs/0803.0037
+  orcid: 0000-0001-9232-4843
+  roger-tu-list: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/nar/gkad289
   title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
     and user-created collections of genes'
@@ -1387,6 +2115,31 @@
   buttons:
   - type: pdf
     link: pdf/Tu_2023.pdf
+- id: doi:10.1101/2023.05.01.538993
+  title: 'DrugMechDB: A Curated Database of Drug Mechanisms'
+  authors:
+  - Adriana Carolina Gonzalez-Cavazos
+  - Anna Tanska
+  - Michael D. Mayers
+  - Denise Carvalho-Silva
+  - Brindha Sridharan
+  - Patrik A. Rewers
+  - Umasri Sankarlal
+  - Lakshmanan Jagannathan
+  - Andrew I. Su
+  publisher: Cold Spring Harbor Laboratory
+  pmid: '37205439'
+  pmcid: PMC10187194
+  date: '2023-05-02'
+  link: https://doi.org/gtrg2f
+  orcid: 0000-0001-9615-7157
+  carolina-gonzalez-cavazos-list: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/05/03/2023.05.01.538993/F1.large.jpg
+  buttons:
+  - type: pdf
+    link: pdf/Gonzalez-Cavazos_2023.pdf
 - id: doi:10.21203/rs.3.rs-1723808/v1
   title: 'Outbreak.info Research Library: A standardized, searchable platform to discover
     and explore COVID-19 resources'
@@ -2252,6 +3005,29 @@
   buttons:
   - type: pdf
     link: pdf/Fecho_2022.pdf
+- id: doi:10.1093/bioinformatics/btac205
+  title: Design and application of a knowledge network for automatic prioritization
+    of drug mechanisms
+  authors:
+  - Michael Mayers
+  - Roger Tu
+  - Dylan Steinecke
+  - Tong Shu Li
+  - "N\xFAria Queralt-Rosinach"
+  - Andrew I Su
+  publisher: Bioinformatics
+  pmid: '35561182'
+  pmcid: PMC9113361
+  date: '2022-04-06'
+  link: https://doi.org/gptwsz
+  orcid: 0000-0002-9859-4104
+  andrew-su-list: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9113361/bin/btac205f3.jpg
+  buttons:
+  - type: pdf
+    link: pdf/Mayers_2022.pdf
 - id: doi:10.1093/bioinformatics/btac017
   title: 'BioThings SDK: a toolkit for building high-performance data APIs in biomedical
     research'
@@ -2451,6 +3227,52 @@
   buttons:
   - type: pdf
     link: pdf/Riva_2020.pdf
+- id: doi:10.7554/elife.52614
+  title: Wikidata as a knowledge graph for the life sciences
+  authors:
+  - Andra Waagmeester
+  - Gregory Stupp
+  - Sebastian Burgstaller-Muehlbacher
+  - Benjamin M Good
+  - Malachi Griffith
+  - Obi L Griffith
+  - Kristina Hanspers
+  - Henning Hermjakob
+  - Toby S Hudson
+  - Kevin Hybiske
+  - Sarah M Keating
+  - Magnus Manske
+  - Michael Mayers
+  - Daniel Mietchen
+  - Elvira Mitraka
+  - Alexander R Pico
+  - Timothy Putman
+  - Anders Riutta
+  - Nuria Queralt-Rosinach
+  - Lynn M Schriml
+  - Thomas Shafee
+  - Denise Slenter
+  - Ralf Stephan
+  - Katherine Thornton
+  - Ginger Tsueng
+  - Roger Tu
+  - Sabah Ul-Hasan
+  - Egon Willighagen
+  - Chunlei Wu
+  - Andrew I Su
+  publisher: eLife
+  pmid: '32180547'
+  pmcid: PMC7077981
+  date: '2020-03-17'
+  link: https://doi.org/ggqqc6
+  orcid: 0000-0002-9859-4104
+  andrew-su-list: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7077981/bin/elife-52614-fig1.jpg
+  buttons:
+  - type: pdf
+    link: pdf/Waagmeester_2020.pdf
 - id: doi:10.3389/fgene.2019.01355
   title: Functional Annotation of the Transcriptome of the Pig, Sus scrofa, Based
     Upon Network Analysis of an RNAseq Transcriptional Atlas
@@ -2504,6 +3326,27 @@
   buttons:
   - type: pdf
     link: pdf/Queralt-Rosinach_2020.pdf
+- id: doi:10.1186/s12859-019-3297-0
+  title: Time-resolved evaluation of compound repositioning predictions on a text-mined
+    knowledge network
+  authors:
+  - Michael Mayers
+  - Tong Shu Li
+  - "N\xFAria Queralt-Rosinach"
+  - Andrew I. Su
+  publisher: BMC Bioinformatics
+  pmid: '31829175'
+  pmcid: PMC6907279
+  date: '2019-12-01'
+  link: https://doi.org/ggpcsr
+  orcid: 0000-0002-9859-4104
+  andrew-su-list: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6907279/bin/12859_2019_3297_Fig3_HTML.jpg
+  buttons:
+  - type: pdf
+    link: pdf/Mayers_2019.pdf
 - id: doi:10.1371/journal.pone.0222165
   title: Advancing computational biology and bioinformatics research through open
     innovation competitions
@@ -3043,6 +3886,28 @@
   buttons:
   - type: pdf
     link: pdf/Griffith_2017.pdf
+- id: doi:10.1021/acs.jproteome.6b00938
+  title: Quantitative Metaproteomics and Activity-Based Probe Enrichment Reveals Significant
+    Alterations in Protein Expression from a Mouse Model of Inflammatory Bowel Disease
+  authors:
+  - Michael D. Mayers
+  - Clara Moon
+  - Gregory S. Stupp
+  - Andrew I. Su
+  - Dennis W. Wolan
+  publisher: Journal of Proteome Research
+  pmid: '28052195'
+  pmcid: PMC5441882
+  date: '2017-01-23'
+  link: https://doi.org/f9q8c4
+  orcid: 0000-0002-9859-4104
+  andrew-su-list: true
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5441882/bin/nihms857524f2.jpg
+  buttons:
+  - type: pdf
+    link: pdf/Mayers_2017.pdf
 - id: doi:10.1093/database/bax025
   title: 'WikiGenomes: an open web application for community consumption and curation
     of gene annotation data in Wikidata'
@@ -5471,3 +6336,125 @@
   buttons:
   - type: pdf
     link: pdf/Chang_2001.pdf
+- id: doi:10.1101/729475
+  title: Structured Reviews for Data and Knowledge Driven Research
+  authors:
+  - "N\xFAria Queralt-Rosinach"
+  - Gregory S. Stupp
+  - Tong Shu Li
+  - Michael Mayers
+  - Maureen E. Hoatlin
+  - Matthew Might
+  - Benjamin M. Good
+  - Andrew I. Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-08-12'
+  link: https://doi.org/gkxdqp
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/08/12/729475/F4.medium.gif
+  buttons:
+  - type: pdf
+    link: pdf/Queralt-Rosinach_2019.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/564187
+  title: Applying Citizen Science to Gene, Drug, Disease Relationship Extraction from
+    Biomedical Abstracts
+  authors:
+  - Ginger Tsueng
+  - Max Nanis
+  - Jennifer T. Fouquier
+  - Michael Mayers
+  - Benjamin M. Good
+  - Andrew I Su
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-02-28'
+  link: https://doi.org/gkv78t
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/02/28/564187/F2.medium.gif
+  buttons:
+  - type: pdf
+    link: pdf/Tsueng_2019.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0173375
+  title: Effects of diluents on cell culture viability measured by automated cell
+    counter
+  authors:
+  - Aaron Chen
+  - Matthew Leith
+  - Roger Tu
+  - Gurpreet Tahim
+  - Anish Sudra
+  - Swapnil Bhargava
+  publisher: PLOS ONE
+  pmid: '28264018'
+  pmcid: PMC5338812
+  date: '2017-03-06'
+  link: https://doi.org/f9s3sj
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5338812/bin/pone.0173375.g001.jpg
+  buttons:
+  - type: pdf
+    link: pdf/Chen_2017.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/ma9030196
+  title: Nanotextured Shrink Wrap Superhydrophobic Surfaces by Argon Plasma Etching
+  authors:
+  - Jolie Nokes
+  - Himanshu Sharma
+  - Roger Tu
+  - Monica Kim
+  - Michael Chu
+  - Ali Siddiqui
+  - Michelle Khine
+  publisher: Materials
+  pmid: '28773318'
+  pmcid: PMC5456652
+  date: '2016-03-14'
+  link: https://doi.org/f8h9tw
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5456652/bin/materials-09-00196-g001.jpg
+  buttons:
+  - type: pdf
+    link: pdf/Nokes_2016.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.biomaterials.2013.10.007
+  title: Integrated platform for functional monitoring of biomimetic heart sheets
+    derived from human pluripotent stem cells
+  authors:
+  - Aaron Chen
+  - Eugene Lee
+  - Roger Tu
+  - Kevin Santiago
+  - Anna Grosberg
+  - Charless Fowlkes
+  - Michelle Khine
+  publisher: Biomaterials
+  pmid: '24144905'
+  pmcid: PMC9300448
+  date: '2014-01-01'
+  link: https://doi.org/f5kqqz
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9300448/bin/nihms-1790024-f0003.jpg
+  buttons:
+  - type: pdf
+    link: pdf/Chen_2014.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-1-4939-1047-2_9
+  title: Shrink-Induced Biomimetic Wrinkled Substrates for Functional Cardiac Cell
+    Alignment and Culture
+  authors:
+  - Nicole Mendoza
+  - Roger Tu
+  - Aaron Chen
+  - Eugene Lee
+  - Michelle Khine
+  publisher: Methods in Molecular Biology
+  pmid: '25070330'
+  date: '2014-01-01'
+  link: https://doi.org/f6j8hj
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-4939-1047-2_9/MediaObjects/305869_1_En_9_Fig1_HTML.gif?as=webp
+  buttons:
+  - type: pdf
+    link: pdf/Mendoza_2014.pdf
+  plugin: sources.py
+  file: sources.yaml
