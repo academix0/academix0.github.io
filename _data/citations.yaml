@@ -1021,8 +1021,12 @@
   link: https://doi.org/g9b3b8
   orcid: 0000-0001-9232-4843
   tamer-abuhmed-list: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ''
+  buttons:
+  - type: pdf
+    link: pdf/FiSC_A_Novel_Approach_for_Fitzpatrick_Scale-Based_Skin_Analyzers_Image_Classification.pdf
 - id: doi:10.57197/JDR-2024-0101
   title: 'Responsible Artificial Intelligence for Mental Health Disorders: Current
     Applications and Future Challenges'
