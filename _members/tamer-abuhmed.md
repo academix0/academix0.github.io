@@ -1,5 +1,5 @@
 ---
-name: Alan Huebschen
+name: Tamer ABUHMED
 image: images/tamer-min.jpeg
 role: pi
 group: active
